@@ -1,4 +1,4 @@
-# My API CRUD with SQLAlchemy
+# My API CRUD 
 
 FastAPI + SQLAlchemy asosida yozilgan kichik CRUD API. Loyihada `Users`, `Posts` va `Todos` bo‘yicha endpointlar mavjud. Ma’lumotlar bazasi sifatida PostgreSQL ishlatiladi, migratsiyalar uchun Alembic mavjud.
 
